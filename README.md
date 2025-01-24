@@ -44,6 +44,9 @@
 
 <br clear="both">
 
-<img src="https://github.com/github_user_name/github_user_name/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 ###
