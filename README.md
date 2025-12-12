@@ -9,25 +9,6 @@
 
 Hi 👋! My name is **Riya** and I'm a **Full stack Developer**, from **Indore MP**.<br>
 
-<div align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/assets/0/0futuristic-line" width="0" height="0" alt="">
-</div>
-
----
-
-<div align="center">
-
-  <h2>🐍 My Contributions 🐍</h2>
-
-  <br>
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nairgh/nairgh/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
-
-</div>
-
----
 
 ## 💻 Tech Stack
 
@@ -61,25 +42,3 @@ Hi 👋! My name is **Riya** and I'm a **Full stack Developer**, from **Indore M
 !<br/>
 !<br/>
 !
-
----
-
-## 🏆 GitHub Trophies
-
-!
-
----
-
-## ✍️ Random Dev Quote
-
-!
-
----
-
-<div align="center">
-
-  [!](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- Proudly created with GPRM ( [https://gprm.itsvg.in](https://gprm.itsvg.in) ) -->
