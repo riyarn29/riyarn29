@@ -35,10 +35,3 @@ Hi 👋! My name is **Riya** and I'm a **Full stack Developer**, from **Indore M
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-!<br/>
-!<br/>
-!
